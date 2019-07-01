@@ -1,0 +1,11 @@
+.side{
+margin-top: 20px;
+}
+.compose{
+   margin-top: 20px;
+    display: flex;
+    width: 23%;
+text-align: center;
+align-items: center;
+  justify-content: center;
+}
